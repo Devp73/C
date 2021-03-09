@@ -32,6 +32,8 @@ Basic C projects
 
 - [x] Multiplication Table
 
+- [x] Maximum of 3 Numbers
+
 
 
 ### Reboot13
