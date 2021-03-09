@@ -32,7 +32,7 @@ Basic C projects
 
 - [x] Multiplication Table
 
-- [x] Maximum of 3 Numbers
+- [x] Maximum & Minimum of 3 Numbers
 
 
 
