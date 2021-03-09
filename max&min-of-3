@@ -1,0 +1,26 @@
+#include<stdio.h>
+void main()
+{
+	int x,y,z;
+	printf("Enter any three number: ");
+	scanf("%d %d %d",&x,&y,&z);
+	if((x>y) && (x>z)){
+		printf("\n%d is maximum",x);
+	}
+	else{
+		printf("\n%d is minimum",x);
+	else if((y>z) && (y>x)){
+			printf("\n%d is maximum",y);
+		}
+	else{
+			printf("\n%d is minimum",y);
+		}
+	if((z>y) && (z>x))
+		{
+			printf("\n%d is maximum",z);
+		}
+		else{
+			printf("\n%d is manimum",z);
+		}
+	}
+}
